@@ -1,0 +1,34 @@
+Programming language:
+Communication between system and the human
+
+3 types:
+1.Low level-->Machine friendly---->0's & 1's
+1 byte=8 bit(1 2 4 8 16 24 64 128)
+Ascii value
+A=65(10000010)
+B=67
+
+2.Mid level-->Both human+ machine-->C programming
+Disadvantage--->No App development,No security
+
+3.High level->Human friendly-->Python,Java,C++
+-->Secured
+
+#Complier & Interpreter
+
+1.JDK-->Java Development Kit
+Provides all the tools requied to develop,complie and to run the java
+
+Components of :
+JRE,JVM, Development tools
+
+2.JRE-->Java runtime environment
+3.JVM-->Java Virtual Machine(Interpreter)
+4.JIT-->Just in time
+
+Primitive:
+Types:8 types
+Build in data 
+
+Non-primitive--->Used to store references
+
